@@ -1,0 +1,10 @@
+body {
+    background: #0A192F;
+    color: #fff;
+    
+  }
+
+  .form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: gray;
+    opacity: 1; /* Firefox */
+}
